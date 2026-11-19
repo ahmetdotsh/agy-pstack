@@ -1,0 +1,17 @@
+{
+  "name": "pstack",
+  "displayName": "pstack",
+  "version": "1.0.0",
+  "description": "If you want to go fast, go deep first. Rigorous engineering workflows, playbooks, principles, arenas, and adversarial reviews built natively for Antigravity.",
+  "author": {
+    "name": "Lauren Tan (adapted for Antigravity)"
+  },
+  "homepage": "https://github.com/ahmetdotsh/agy-pstack",
+  "repository": "https://github.com/ahmetdotsh/agy-pstack",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "/poteto-mode reproduce, root-cause, and fix this bug with runtime evidence",
+    "/interrogate review my current branch diff and prove every finding",
+    "/poteto-help which skill or playbook fits my task?"
+  ]
+}
