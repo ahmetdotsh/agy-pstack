@@ -8,7 +8,7 @@
   },
   "homepage": "https://github.com/ahmetdotsh/agy-pstack",
   "repository": "https://github.com/ahmetdotsh/agy-pstack",
-  "logo": "assets/logo.png",
+  "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "/poteto-mode reproduce, root-cause, and fix this bug with runtime evidence",
     "/interrogate review my current branch diff and prove every finding",
